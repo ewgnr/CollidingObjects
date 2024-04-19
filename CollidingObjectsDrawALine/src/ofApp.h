@@ -5,8 +5,7 @@
 /*
 BUG FIXES: See main code for drawing line by pressing the right mouse button.
 Adapt the following behaviour to this code: 
-1. Drawing a preview of the line, before the mouse button is released.
-2. Drawing a bitmap string, containing the legth in pixels of the line.
+1. Drawing a bitmap string, containing the legth in pixels of the line.
 */
 
 class drawLine
@@ -47,4 +46,7 @@ class ofApp : public ofBaseApp
 		
 		glm::vec2 lineStartPosition, lineEndPosition;
 		std::vector<drawLine> lines;
+
+		bool mouseLeftPressedOnce = true;
+		std::size_t NUMBER_OF_LINES;
 };

@@ -9,20 +9,26 @@ void ofApp::setup()
 //--------------------------------------------------------------
 void ofApp::update()
 {
-
+	
 }
 
 //--------------------------------------------------------------
 void ofApp::draw()
 {
+	ofSetColor(0, 0, 0);
+	ofFill();
+
+	if (mouseLeftPressedOnce == false)
+	{
+		ofDrawLine(lineStartPosition, glm::vec2(ofGetMouseX(), ofGetMouseY()));
+	}
+
 	for (int i = 0; i < lines.size(); i++)
 	{
 		lines[i].draw();
 	}
 
-	ofSetColor(0, 0, 0);
-	ofFill();
-	ofDrawBitmapString("Drag    Left    Mouse    Button    to    Draw    Lines", ofGetWidth() - 460, ofGetHeight() - 75);
+	ofDrawBitmapString("Drag  Left  Mouse  Button  to  Draw  Lines", ofGetWidth() - 460, ofGetHeight() - 75);
 }
 
 //--------------------------------------------------------------
@@ -42,16 +48,19 @@ void ofApp::mouseMoved(int x, int y ){
 }
 
 //--------------------------------------------------------------
-void ofApp::mouseDragged(int x, int y, int button){
-
+void ofApp::mouseDragged(int x, int y, int button)
+{
+//	lineStartPosition = glm::vec2(ofGetMouseX(), ofGetMouseY()); 
 }
 
 //--------------------------------------------------------------
 void ofApp::mousePressed(int x, int y, int button)
-{
+{ 
 	if (button == 0)
 	{
 		lineStartPosition = glm::vec2(ofGetMouseX(), ofGetMouseY());
+
+		mouseLeftPressedOnce = false;
 	}
 }
 
@@ -62,7 +71,12 @@ void ofApp::mouseReleased(int x, int y, int button)
 	{
 		lineEndPosition = glm::vec2(x, y);
 		lines.push_back(drawLine(lineStartPosition, lineEndPosition, ofColor(0, 0, 0)));
+
+		mouseLeftPressedOnce = true;
 	}
+
+	NUMBER_OF_LINES = lines.size();
+	std::cout << NUMBER_OF_LINES << std::endl;
 }
 
 //--------------------------------------------------------------
