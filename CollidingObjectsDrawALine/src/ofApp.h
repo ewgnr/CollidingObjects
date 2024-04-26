@@ -2,12 +2,6 @@
 
 #include "ofMain.h"
 
-/*
-BUG FIXES: See main code for drawing line by pressing the right mouse button.
-Adapt the following behaviour to this code: 
-1. Drawing a bitmap string, containing the legth in pixels of the line.
-*/
-
 class drawLine
 {
 public:
@@ -24,6 +18,14 @@ public:
 	glm::vec2 startPos, endPos;
 	ofColor color;
 };
+
+float calculateLineLength(const glm::vec2& mMouseCoordinateStart, const glm::vec2& mMouseCoordinateEnd)
+{
+	float dist_x = mMouseCoordinateStart.x - mMouseCoordinateEnd.x;
+	float dist_y = mMouseCoordinateStart.y - mMouseCoordinateEnd.y;
+
+	return sqrt(((dist_x * dist_x) + (dist_y * dist_y)));
+}
 
 class ofApp : public ofBaseApp
 {

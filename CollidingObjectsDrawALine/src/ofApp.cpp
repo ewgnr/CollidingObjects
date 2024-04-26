@@ -20,7 +20,10 @@ void ofApp::draw()
 
 	if (mouseLeftPressedOnce == false)
 	{
-		ofDrawLine(lineStartPosition, glm::vec2(ofGetMouseX(), ofGetMouseY()));
+		glm::vec2 mMouseCoordinates(ofGetMouseX(), ofGetMouseY());
+
+		ofDrawLine(lineStartPosition, mMouseCoordinates);
+		ofDrawBitmapString(calculateLineLength(lineStartPosition, mMouseCoordinates), mMouseCoordinates.x + 25, mMouseCoordinates.y - 25);
 	}
 
 	for (int i = 0; i < lines.size(); i++)
@@ -50,7 +53,6 @@ void ofApp::mouseMoved(int x, int y ){
 //--------------------------------------------------------------
 void ofApp::mouseDragged(int x, int y, int button)
 {
-//	lineStartPosition = glm::vec2(ofGetMouseX(), ofGetMouseY()); 
 }
 
 //--------------------------------------------------------------
