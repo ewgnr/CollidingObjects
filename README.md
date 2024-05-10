@@ -1,10 +1,10 @@
-	coliding objects 
-	wath is coliding objects?
-	wich difrent states of evolution had coliding objects?
-	who can play coliding objects ?
-	core functions
-	operating systems
-	support
-	contributers 
-	instalation
-	lisence
+	Colliding Objects 
+	What is Colliding Objects?
+	What are the different development stages of Coliding Objects?
+	Who can play Coliding Objects?
+	Core functions
+	Operating Systems
+	Support
+	Contributors 
+	Installation
+	Licence
