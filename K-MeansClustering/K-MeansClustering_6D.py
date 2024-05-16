@@ -24,12 +24,12 @@ num_iters = 50
 num_clusters = 4
 
 # sample from Gaussians 
-data1 = np.random.normal((1,  5, 1,  5, 1,  5), (9, 9, 9, 9, 9, 9), (data_size, 6))
-data2 = np.random.normal((20, 5, 25, 5, 25, 5), (9, 9, 9, 9, 9, 9), (data_size, 6))
-data3 = np.random.normal((50, 5, 50, 5, 50, 5), (9, 9, 9, 9, 9, 9), (data_size, 6))
-data4 = np.random.normal((70, 5, 70, 5, 70, 5), (9, 9, 9, 9, 9, 9), (data_size, 6))
-data5 = np.random.normal((90, 5, 90, 5, 90, 5), (9, 9, 9, 9, 9, 9), (data_size, 6))
-data6 = np.random.normal((110,5, 110,5, 110, 5),(9, 9, 9, 9, 9, 9), (data_size, 6))
+data1 = np.random.normal((200,  5, 1, 1, 1, 1), (9, 9, 9, 9, 9, 9), (data_size, 6))
+data2 = np.random.normal((400,  5, 1, 1, 1, 1), (9, 9, 9, 9, 9, 9), (data_size, 6))
+data3 = np.random.normal((600,  5, 1, 1, 1, 1), (9, 9, 9, 9, 9, 9), (data_size, 6))
+data4 = np.random.normal((800,  5, 1, 1, 1, 1), (9, 9, 9, 9, 9, 9), (data_size, 6))
+data5 = np.random.normal((1000, 5, 1, 1, 1, 1), (9, 9, 9, 9, 9, 9), (data_size, 6))
+data6 = np.random.normal((1200, 5, 1, 1, 1, 1), (9, 9, 9, 9, 9, 9), (data_size, 6))
 
 # Combine the data to create the final dataset
 data = np.concatenate((data1, data2, data3, data4, data5, data6), axis = 0)
