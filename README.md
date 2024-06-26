@@ -11,10 +11,10 @@ In der interaktiven Installation „Colliding Objects" werden physikalisch simul
 
 ## Installation
 
-**Voraussetzungen**<br />
+### Voraussetzungen
 Die Voraussetzungen zum Spielen von "Colliding Objects" sind relativ einfach gehalten. Es wird ein PC mit einem der drei gängigen Betriebssysteme benötigt. Diese Geräte sollten über mehr als 4 GB RAM verfügen, um ein reibungsloses Spielerlebnis zu gewährleisten.
 
-**Installation**
+### Installation
 * Colliding Objects 2 wurde mit <a href="https://openframeworks.cc/">Open Frameworks</a> 0.12.0 erstellt.
 * Für die K-Means Python 3.11 Anwendungen werden die Packages Pandas und Numpy benötigt. 
 
@@ -44,20 +44,20 @@ This work is licensed under Creative Commons Attribution-Noncommercial 4.0 Inter
 
 ## Autoren
 
-**Design und Frontend für K-Means Spieler-Statistik**
+### Design und Frontend für K-Means Spieler-Statistik
 * <a href="https://github.com/MacroVictoria">Victoria Hertfelder</a>
 * <a href="https://github.com/mirzoevau">Umeda Mirzoeva</a>
 
-**Development Colliding Objects 1 + 2, K-Means Analysetool**
+### Development Colliding Objects 1 + 2, K-Means Analysetool
 * <a href="https://github.com/MFDoom">Malte Feldhues</a>
 * <a href="https://github.com/NathaSpace">Nathanel Kus</a>
 
-**Lizenz und Legal Documentation** 
+### Lizenz und Legal Documentation
 * <a href="https://github.com/ThanatosOtris">David Stegmaier</a>
 * <a href="https://github.com/Nica1807">Niclas Dörje</a>
 * <a href="https://github.com/mkosiol2023">Matthias Kosiol</a>
 * <a href="https://github.com/mae1an">Maelan Dinam</a>
 
-**Sicherheit und Verschlüsselung Fast API**
+### Sicherheit und Verschlüsselung Fast API
 * <a href="https://github.com/AlexW02">Alexander Wilisow</a>
 * <a href="https://github.com/Xytoup">Yann Schüler</a>
