@@ -15,13 +15,10 @@ In der interaktiven Installation „Colliding Objects" werden physikalisch simul
 
 Die Voraussetzungen zum Spielen von "Colliding Objects" sind relativ einfach gehalten. Es wird ein PC mit einem der drei gängigen Betriebssysteme benötigt. Diese Geräte sollten über mehr als 4 GB RAM verfügen, um ein reibungsloses Spielerlebnis zu gewährleisten.
 
-### Installtion
+### Installation
 
-Colliding Objects ist mit Open Frameworks Version 0.12.0 erstellt.
-<a href="https://openframeworks.cc/">Download, Installation und OF Dokumentation</a>
-
-Für die K-Means Python 3.11 Anwendungen werden die Packages Pandas und Numpy benötigt. 
-
+* Colliding Objects wurde mit <a href="https://openframeworks.cc/">Open Frameworks</a> Version 0.12.0 erstellt.
+* Für die K-Means Python 3.11 Anwendungen werden die Packages Pandas und Numpy benötigt. 
 
 ## Benutzung
 
