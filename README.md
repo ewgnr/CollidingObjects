@@ -67,5 +67,6 @@ No warranties are given. The license may not give you all of the permissions nec
 * <a href="https://github.com/mae1an">Maelan Dinam</a>
 
 ### Sicherheit und Verschlüsselung
-* <a href="https://github.com/AlexW02">CC Licence 4.0 International</a>
+### Sicherheit und Verschlüsselung
+* <a href="https://github.com/AlexW02">Alexander Wilisow</a>
 * <a href="https://github.com/Xytoup">Yann Schüler</a>
