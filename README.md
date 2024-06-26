@@ -17,7 +17,11 @@ Die Voraussetzungen zum Spielen von "Colliding Objects" sind relativ einfach geh
 
 ### Installtion
 
-Die Version orientiert sich an Open Frameworks. Deshalb Orientieren sie sich bei der Installation bitte an der neuesten Version von open Frameworks.
+Colliding Objects ist mit Open Frameworks Version 0.12.0 erstellt.
+<a href="https://openframeworks.cc/">Download, Installation und OF Dokumentation</a>
+
+Für die K-Means Python 3.11 Anwendungen werden die Packages Pandas und Numpy benötigt. 
+
 
 ## Benutzung
 
@@ -27,7 +31,7 @@ Durch das Halten der linken Maustaste in Kombination mit gleichzeitiger Mausbewe
 
 <a href="https://creativecommons.org/licenses/by/4.0//">CC Licence 4.0 International</a>
 
-**This work is licensed under Creative Commons Attribution-Noncommercial 4.0 International**
+This work is licensed under Creative Commons Attribution-Noncommercial 4.0 International
 
 You are free to:
 * Share - copy and redistribute the material in any medium or format. Adapt - remix, transform, and build upon the material.
@@ -42,7 +46,7 @@ Under the following terms:
 Notices:
 * You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 * No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-  
+
 ## Autorinnen und Autoren
 
 ### Design und Frontend Spieler-Statistik
