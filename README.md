@@ -52,26 +52,20 @@ No warranties are given. The license may not give you all of the permissions nec
 
 ## Autorinnen und Autoren
 
-Design und Frontend Spieler-Statistik
-<a href="https://github.com/MacroVictoria">Victoria Hertfelder</a>
+### Design und Frontend Spieler-Statistik
+* <a href="https://github.com/MacroVictoria">Victoria Hertfelder</a>
+* <a href="https://github.com/mirzoevau">Umeda Mirzoeva</a>
 
-<a href="https://github.com/mirzoevau">Umeda Mirzoeva</a>
+### Development Colliding Objects 2, K-Means Analysetool 
+* <a href="https://github.com/MFDoom">Malte Feldhues</a>
+* <a href="https://github.com/NathaSpace">Nathanel Kus</a>
 
-Development Colliding Objects 2, K-Means Analysetool 
-<a href="https://github.com/MFDoom">Malte Feldhues</a>
+### Lizenz und Legal Documentation 
+* <a href="https://github.com/ThanatosOtris">David Stegmaier</a>
+* <a href="https://github.com/Nica1807">Niclas Dörje</a>
+* <a href="https://github.com/mkosiol2023">Matthias Kosiol</a>
+* <a href="https://github.com/mae1an">Maelan Dinam</a>
 
-<a href="https://github.com/NathaSpace">Nathanel Kus</a>
-
-Lizenz und Legal Documentation 
-<a href="https://github.com/ThanatosOtris">David Stegmaier</a>
-
-<a href="https://github.com/Nica1807">Niclas Dörje</a>
-
-<a href="https://github.com/mkosiol2023">Matthias Kosiol</a>
-
-<a href="https://github.com/mae1an">Maelan Dinam</a>
-
-Sicherheit und Verschlüsselung
-<a href="https://github.com/AlexW02">CC Licence 4.0 International</a>
-
-<a href="https://github.com/Xytoup">Yann Schüler</a>
+### Sicherheit und Verschlüsselung
+* <a href="https://github.com/AlexW02">CC Licence 4.0 International</a>
+* <a href="https://github.com/Xytoup">Yann Schüler</a>
