@@ -1,23 +1,21 @@
-# Colliding Objects 2 ein audiovisuelles Spiel
+# Colliding Objects 2 Spiel und Analysetool
 
 In der interaktiven Installation „Colliding Objects" werden physikalisch simulierte Objekte genutzt, um sequenzielle Muster und Klangfolgen zu generieren. Die Besucher sind eingeladen, ihre eigene Anordnung herzustellen und sich von den Ergebnissen in Bild und Ton überraschen zu lassen. Eine Arbeit von Prof. Ephraim Wegner, der vor Ort mitspielt, und Studierenden der Hochschule Macromedia am Campus Freiburg aus dem Studiengang „Digital Technologiesand Coding".
 
 ## Inhaltsverzeichnis
 
-* Installation
-* Benutzung
-* Lizenz
-* Autoren
+* <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#installation">Installation</a>
+* <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#benutzung">Benutzung</a>
+* <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#lizenz">Lizenz</a>
+* <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#autoren">Autoren</a>
 
 ## Installation
 
-### Voraussetzungen
-
+**Voraussetzungen**
 Die Voraussetzungen zum Spielen von "Colliding Objects" sind relativ einfach gehalten. Es wird ein PC mit einem der drei gängigen Betriebssysteme benötigt. Diese Geräte sollten über mehr als 4 GB RAM verfügen, um ein reibungsloses Spielerlebnis zu gewährleisten.
 
-### Installation
-
-* Colliding Objects wurde mit <a href="https://openframeworks.cc/">Open Frameworks</a> Version 0.12.0 erstellt.
+**Installation**
+* Colliding Objects 2 wurde mit <a href="https://openframeworks.cc/">Open Frameworks</a> 0.12.0 erstellt.
 * Für die K-Means Python 3.11 Anwendungen werden die Packages Pandas und Numpy benötigt. 
 
 ## Benutzung
@@ -46,11 +44,11 @@ Notices:
 
 ## Autorinnen und Autoren
 
-### Design und Frontend Spieler-Statistik
+### Design und Frontend für K-Means Spieler-Statistik
 * <a href="https://github.com/MacroVictoria">Victoria Hertfelder</a>
 * <a href="https://github.com/mirzoevau">Umeda Mirzoeva</a>
 
-### Development Colliding Objects 2, K-Means Analysetool 
+### Development Colliding Objects 1 + 2, K-Means Analysetool 
 * <a href="https://github.com/MFDoom">Malte Feldhues</a>
 * <a href="https://github.com/NathaSpace">Nathanel Kus</a>
 
@@ -60,6 +58,6 @@ Notices:
 * <a href="https://github.com/mkosiol2023">Matthias Kosiol</a>
 * <a href="https://github.com/mae1an">Maelan Dinam</a>
 
-### Sicherheit und Verschlüsselung
+### Sicherheit und Verschlüsselung Fast API
 * <a href="https://github.com/AlexW02">Alexander Wilisow</a>
 * <a href="https://github.com/Xytoup">Yann Schüler</a>
