@@ -1,4 +1,4 @@
-# Colliding Objects 2 ein audiovisuelles Spiel
+# Colliding Objects 2 Spiel und Analysetool
 
 In der interaktiven Installation „Colliding Objects" werden physikalisch simulierte Objekte genutzt, um sequenzielle Muster und Klangfolgen zu generieren. Die Besucher sind eingeladen, ihre eigene Anordnung herzustellen und sich von den Ergebnissen in Bild und Ton überraschen zu lassen. Eine Arbeit von Prof. Ephraim Wegner, der vor Ort mitspielt, und Studierenden der Hochschule Macromedia am Campus Freiburg aus dem Studiengang „Digital Technologiesand Coding".
 
