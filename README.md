@@ -60,6 +60,5 @@ Notices:
 * <a href="https://github.com/mae1an">Maelan Dinam</a>
 
 ### Sicherheit und Verschlüsselung
-### Sicherheit und Verschlüsselung
 * <a href="https://github.com/AlexW02">Alexander Wilisow</a>
 * <a href="https://github.com/Xytoup">Yann Schüler</a>
