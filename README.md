@@ -7,7 +7,7 @@ In der interaktiven Installation „Colliding Objects" werden physikalisch simul
 * <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#installation">Installation</a>
 * <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#benutzung">Benutzung</a>
 * <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#lizenz">Lizenz</a>
-* <a href=https://github.com/ewgnr/CollidingObjects/blob/main/README.md#autorinnen-und-autoren">Autorinnen und Autoren</a>
+* <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#autorinnen-und-autoren">Autoren</a>
 
 ## Installation
 
@@ -28,21 +28,21 @@ Durch das Halten der linken Maustaste in Kombination mit gleichzeitiger Mausbewe
 
 This work is licensed under Creative Commons Attribution-Noncommercial 4.0 International
 
-You are free to:
+**You are free to:**
 * Share - copy and redistribute the material in any medium or format. Adapt - remix, transform, and build upon the material.
 * The licensor cannot revoke these freedoms as lang as you follow the license terms.
 
 
-Under the following terms:
+**Under the following terms:**
 * Attribution -You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 * Non-commercial - You may not use the material for commercial purposes.
 * No additional restrictions - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-Notices:
+**Notices:**
 * You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 * No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
-## Autorinnen und Autoren
+## Autoren
 
 **Design und Frontend für K-Means Spieler-Statistik**
 * <a href="https://github.com/MacroVictoria">Victoria Hertfelder</a>
