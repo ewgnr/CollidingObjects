@@ -1,4 +1,4 @@
-# Colliding Objects 2 Spiel und Analysetool
+# Colliding Objects 2 ein audiovisuelles Spiel
 
 In der interaktiven Installation „Colliding Objects" werden physikalisch simulierte Objekte genutzt, um sequenzielle Muster und Klangfolgen zu generieren. Die Besucher sind eingeladen, ihre eigene Anordnung herzustellen und sich von den Ergebnissen in Bild und Ton überraschen zu lassen. Eine Arbeit von Prof. Ephraim Wegner, der vor Ort mitspielt, und Studierenden der Hochschule Macromedia am Campus Freiburg aus dem Studiengang „Digital Technologiesand Coding".
 
@@ -7,7 +7,7 @@ In der interaktiven Installation „Colliding Objects" werden physikalisch simul
 * <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#installation">Installation</a>
 * <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#benutzung">Benutzung</a>
 * <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#lizenz">Lizenz</a>
-* <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#autoren">Autoren</a>
+* <a href=https://github.com/ewgnr/CollidingObjects/blob/main/README.md#autorinnen-und-autoren">Autorinnen und Autoren</a>
 
 ## Installation
 
@@ -44,20 +44,20 @@ Notices:
 
 ## Autorinnen und Autoren
 
-### Design und Frontend für K-Means Spieler-Statistik
+**Design und Frontend für K-Means Spieler-Statistik**
 * <a href="https://github.com/MacroVictoria">Victoria Hertfelder</a>
 * <a href="https://github.com/mirzoevau">Umeda Mirzoeva</a>
 
-### Development Colliding Objects 1 + 2, K-Means Analysetool 
+**Development Colliding Objects 1 + 2, K-Means Analysetool**
 * <a href="https://github.com/MFDoom">Malte Feldhues</a>
 * <a href="https://github.com/NathaSpace">Nathanel Kus</a>
 
-### Lizenz und Legal Documentation 
+**Lizenz und Legal Documentation** 
 * <a href="https://github.com/ThanatosOtris">David Stegmaier</a>
 * <a href="https://github.com/Nica1807">Niclas Dörje</a>
 * <a href="https://github.com/mkosiol2023">Matthias Kosiol</a>
 * <a href="https://github.com/mae1an">Maelan Dinam</a>
 
-### Sicherheit und Verschlüsselung Fast API
+**Sicherheit und Verschlüsselung Fast API**
 * <a href="https://github.com/AlexW02">Alexander Wilisow</a>
 * <a href="https://github.com/Xytoup">Yann Schüler</a>
