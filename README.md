@@ -9,7 +9,7 @@ In der interaktiven Installation „Colliding Objects" werden physikalisch simul
 * <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#lizenz">Lizenz</a>
 * <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#autorinnen-und-autoren">Autoren</a>
 
-## Installation
+### Installation
 
 ### Voraussetzungen
 Die Voraussetzungen zum Spielen von "Colliding Objects" sind relativ einfach gehalten. Es wird ein PC mit einem der drei gängigen Betriebssysteme benötigt. Diese Geräte sollten über mehr als 4 GB RAM verfügen, um ein reibungsloses Spielerlebnis zu gewährleisten.
